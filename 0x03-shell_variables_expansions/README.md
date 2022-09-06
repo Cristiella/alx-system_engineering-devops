@@ -9,3 +9,4 @@ task 1 script creates an alias
 8-true_knowledge prints result of addition" >>README.md
 echo 8-true_knowledge prints result of addition >>README.md
 echo '8-true_knowledge prints result of addition
+9-divide_and_rule printa rwsult of division
