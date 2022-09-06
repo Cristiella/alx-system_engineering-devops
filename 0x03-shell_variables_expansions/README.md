@@ -6,3 +6,6 @@ task 1 script creates an alias
 5-local_variables lists local and environment variables
 6-create_local_variable creates new local variable
 7-create_global_variable creates global variable
+8-true_knowledge prints result of addition" >>README.md
+echo 8-true_knowledge prints result of addition >>README.md
+echo '8-true_knowledge prints result of addition
