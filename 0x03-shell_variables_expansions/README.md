@@ -10,3 +10,4 @@ task 1 script creates an alias
 echo 8-true_knowledge prints result of addition >>README.md
 echo '8-true_knowledge prints result of addition
 9-divide_and_rule printa rwsult of division
+10-love_exponent_breath displays result of breath to power of love
