@@ -13,3 +13,4 @@ echo '8-true_knowledge prints result of addition
 10-love_exponent_breath displays result of breath to power of love
 11-binary_to_decimal converts no fromm base 2 to base 10
 12-combinations prints all possible combinations of two letters except oo
+13-print_float prints a number with two decimal places
